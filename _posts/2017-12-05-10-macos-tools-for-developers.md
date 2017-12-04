@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "10 MacOS Tools for Developers we use every day"
-date:   2017-12-05 06:00:00
+date:   2017-12-03 06:00:00
 author:
   display_name: Andrew Lombardi
   login: kinabalu
@@ -10,15 +10,11 @@ author:
 comments: true
 ---
 
-Mystic is always on the lookout for new ways to optimize our workflow and
-spend more time doing the things we love. A big motivation for knowing the best
-tool for the job. Here is a list of the 10 apps that we find ourselves using
-on a daily basis. They have become invaluable assets in our quest to do
-better work for our clients daily.
-
-## Launchbar
-
- (Alfred, Spotlight, Quicksilver)
+At Mystic we are always on the lookout for new ways to optimize our workflow and
+spend more time doing the things we love. A big motivation is researching and 
+identifying the best tools for the job. Here is a list of the 10 apps that we 
+find ourselves using on a daily basis. They have become invaluable assets in 
+our quest to do better work for our clients daily.
 
 ## iTerm
 
@@ -50,6 +46,10 @@ as the king of experiences for developers, privacy nuts, and everyone else.
 Sure, you could use curl, or httpie but the amount of functionality in this
 app they offer for free, is mindblowing and a true gift to the development
 community.
+
+## Launchbar
+
+ (Alfred, Spotlight, Quicksilver)
 
 ## Zsh
 Choosing a shell is a little bit like your favorite mobile operating system,
