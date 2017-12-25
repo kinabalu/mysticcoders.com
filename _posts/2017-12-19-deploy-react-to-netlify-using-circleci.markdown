@@ -31,7 +31,7 @@ to make a few changes.
 
 First thing is overriding the dependencies and test phases to run `yarn` instead of `npm`.
 
-``` bash
+``` yaml
 dependencies:
   override:
     - yarn
@@ -42,7 +42,7 @@ test:
 
 Due to the override, we'll also have to add the `.bin` directory in `node_modules` like so.
 
-``` bash
+``` yaml
 machine:
   environment:
     PATH: "${PATH}:${HOME}/${CIRCLE_PROJECT_REPONAME}/node_modules/.bin"
@@ -50,11 +50,26 @@ machine:
 
 And of course to make the process run quicker, the cache should be updated to follow `yarn` conventions:
 
-``` bash
+``` yaml
 dependencies:
   cache_directories:
     - ~/.cache/yarn
 ```
+
+Our deploy steps are where the magic with Netlify happens. If you are familiar at all with CircleCi then adding 
+a deploy step should be simple. We'll need to either specify a branch or a tag (depending on how your deployment works).
+Below is an example from the [mysticpaste-react](https://github.com/kinabalu/mysticpaste-react) project.
+
+``` yaml
+deployment:
+  production:
+    branch: production
+    commands:
+```
+
+Netlify deployment stores two files that are important.
+
+![CircleCi Environment Variables](/images/article_assets/circleci-environment-vars.png)
 
 ``` bash
 - REACT_APP_ENV=production yarn run build
