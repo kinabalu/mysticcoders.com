@@ -26,7 +26,7 @@ In our comparison we are going to look at two scenarios:
 
 When self-hosting a cluster, it’s not just about the cost of hardware, but also about the electricity used, which as we will find out can be significant.
 
-You could host your cluster using any of major cloud players out there, such as [Microsoft Azure](https://azure.microsoft.com/), [Google Cloud](https://cloud.google.com/compute/), or [IBM BlueMix](https://www.ibm.com/cloud/).  Each has different advantages, with comparable pricing.   But for this article I’m just going to focus on [Amazon Web Services](https://aws.amazon.com/).  We might compare cloud providers in a future article.
+You could host your cluster using any of major cloud players out there, such as [Microsoft Azure](https://azure.microsoft.com/), [Google Cloud](https://cloud.google.com/compute/), or [IBM BlueMix](https://www.ibm.com/cloud/).  Each has different advantages, with comparable pricing.   But for this article I’m just going to focus on [Amazon Web Services](https://aws.amazon.com/).  Leave a comment below if you'd like us to compare cloud providers in a future article.
 
 ## Self Hosting with Commodity Hardware
 
@@ -48,7 +48,7 @@ To summarize:
 
 ## Cloud Hosting
 
-With AWS, there are a large number of server types to choose from.  A comparable EC2 type to our self-hosted solution would be the t2.medium instance.  Here’s a great site that compares the various options and prices.  If we use on-demand pricing, we will get higher availability, but we are paying full price.  We have the option to go with spot pricing and we are going to sacrifice availability for some savings.  Here’s the comparison for the t2.medium, with current 2017 pricing.
+With [AWS](https://aws.amazon.com/), there are a large number of server types to choose from.  A comparable EC2 type to our self-hosted solution would be the t2.medium instance.  [Here’s a great site that compares the various options and prices.](https://www.ec2instances.info/)  If we use on-demand pricing, we will get higher availability, but we are paying full price.  We have the option to go with spot pricing and we are going to sacrifice availability for some savings.  Here’s the comparison for the t2.medium, with current 2017 pricing.
 
 
 | Lifecycle | Total Hourly Cost | Total Monthly Cost |
