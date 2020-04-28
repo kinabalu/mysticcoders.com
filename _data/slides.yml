@@ -1,3 +1,10 @@
+- image: brad-neathery-nPy0X4xew60-unsplash.jpg
+  desc_location: left
+  desc:
+    <h2>Your next project can be easy.</h2>
+    <h2>If you hire the right team.</h2>
+    <h3>&nbsp;
+    <button onClick="location.href='#contactus'">Reach Out Today!</button>
 - image: slide-3.jpg
   desc_location: right
   desc:
