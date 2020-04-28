@@ -1,9 +1,3 @@
-- image: slide-6.png
-  desc_location: right
-  desc:
-    <h2>COVID-19 Virus Tracker</h2>
-    <h3>How We Help Flatten The Curve with Tech</h3>
-    <button onClick="location.href='/blog/flatten-the-curve-with-mystic-react-and-virustrack-live'">Read More</button>
 - image: slide-3.jpg
   desc_location: right
   desc:
