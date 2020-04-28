@@ -19,7 +19,7 @@ date_gmt: '2009-11-02 15:30:37 +0000'
 tags: []
 comments: true
 ---
-<img src="http://www.mysticcoders.com/wp-content/uploads/2009/11/IMG_0626.JPG" alt="Andrew with Duck on Head" title="Andrew with Duck on Head" width="479" height="639" class="alignnone size-full wp-image-1217" />
+<img src="https://www.mysticcoders.com/wp-content/uploads/2009/11/IMG_0626.JPG" alt="Andrew with Duck on Head" title="Andrew with Duck on Head" width="479" height="639" class="alignnone size-full wp-image-1217" />
 
 Last month in early October, I attended the <a href="http://java2days.com" target="_blank">Java2Days</a> conference in Sofia, Bulgaria.  This being the first conference put on in the Balkans and one that reached out to an international set of speakers, I wasn't expecting it to be any different than the other myriad of conferences.  Boy was I wrong.  The organizers put everything together so well, that each of the speakers and a lot of the attendees that I spoke with were impressed with the organization.
 

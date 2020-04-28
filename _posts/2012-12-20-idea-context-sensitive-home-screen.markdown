@@ -19,7 +19,7 @@ date_gmt: '2012-12-20 17:16:25 +0000'
 tags: []
 comments: true
 ---
-<img src="http://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Bluetooth.svg/170px-Bluetooth.svg.png" border="0" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Bluetooth.svg/170px-Bluetooth.svg.png" border="0" />
 
 Have you ever looked at the home screen on your smartphone, and wished that there was a different set of icons on that initial screen?  You're driving, so the Messages app, the Camera, Calculator, etc should all be relegated to another screen, hidden away from frisky fingers.  Or you're at home, so the Maps application isn't going to be as important, but Spotify and Pandora might, and Safari, etc.  Or you've decided to take a trip to a foreign land, and you need the translator, Yelp, Whatsapp, OffMaps, and any other number of apps that are more geared toward your out of country experience.
 

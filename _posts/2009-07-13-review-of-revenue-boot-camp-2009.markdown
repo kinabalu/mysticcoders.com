@@ -19,7 +19,7 @@ date_gmt: '2009-07-13 15:30:43 +0000'
 tags: []
 comments: true
 ---
-[caption id="attachment_1057" align="alignnone" width="492" caption="Revenue Bootcamp 2009"]<img src="http://www.mysticcoders.com/wp-content/uploads/2009/07/img_0302.jpg" alt="Revenue Bootcamp 2009" title="Revenue Bootcamp 2009" width="492" height="334" class="size-full wp-image-1057" />[/caption]
+[caption id="attachment_1057" align="alignnone" width="492" caption="Revenue Bootcamp 2009"]<img src="https://www.mysticcoders.com/wp-content/uploads/2009/07/img_0302.jpg" alt="Revenue Bootcamp 2009" title="Revenue Bootcamp 2009" width="492" height="334" class="size-full wp-image-1057" />[/caption]
 <!-- ckey="4BBAF30E" -->
 On a whim, a <a href="http://twitter.com/guykawasaki/statuses/2504514954" target="_blank">twitter whim</a>, I decided to head up to San Jose last Friday for <a href="http://revenuebootcamp.garage.com" target="_blank">Revenue Boot Camp</a>.  The day was prepared by Guy Kawasaki and the folks at Garage.  Arrived the day before, hung out with some friends in San Francisco, got to bed at a reasonable hour and prepared for a great day. <a id="more"></a><a id="more-1024"></a>
 

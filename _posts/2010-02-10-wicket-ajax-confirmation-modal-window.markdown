@@ -83,7 +83,7 @@ public class HomePage extends WebPage {
 
 Finally, we can see how it looks:
 
-<img src="http://www.mysticcoders.com/wp-content/uploads/2010/02/javaScriptWindow.PNG.png" alt="" title="javaScriptWindow.PNG" width="400" height="320" class="alignnone size-full wp-image-209" />
+<img src="https://www.mysticcoders.com/wp-content/uploads/2010/02/javaScriptWindow.PNG.png" alt="" title="javaScriptWindow.PNG" width="400" height="320" class="alignnone size-full wp-image-209" />
 
 It solves our problem but in the era of Web2.0, rounded corners and shiny looks it isn't enough. Why can't we use ajax modal window to ask user for confirmation? It would make our application look good and our css magician could make it look even better.
 
@@ -388,4 +388,4 @@ public class HomePage extends WebPage {
 
 And after clicking 'Ajax Action!' we could see that it's working as intended:
 
-<img src="http://www.mysticcoders.com/wp-content/uploads/2010/02/ajaxModalWindow.PNG.png" alt="" title="ajaxModalWindow.PNG" width="399" height="400" class="alignnone size-full wp-image-210" />
+<img src="https://www.mysticcoders.com/wp-content/uploads/2010/02/ajaxModalWindow.PNG.png" alt="" title="ajaxModalWindow.PNG" width="399" height="400" class="alignnone size-full wp-image-210" />

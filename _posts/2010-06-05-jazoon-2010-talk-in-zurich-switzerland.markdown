@@ -25,7 +25,7 @@ In Dublin now, getting ready for epicenter 2010 and enjoying my stay.  If you're
 
 As promised to several folks here is the presentation given at Jazoon:
 
-<a href="http://www.mysticcoders.com/wp-content/uploads/2010/06/Rapid-Application-Development-with-Apache-Wicket-Jazoon-2010.pdf"><img src="http://www.mysticcoders.com/wp-includes/images/crystal/document.png" border="0" /></a>&nbsp;-&nbsp; <a href="http://www.mysticcoders.com/wp-content/uploads/2010/06/Rapid-Application-Development-with-Apache-Wicket-Jazoon-2010.pdf">Rapid Application Development with Apache Wicket</a>
+<a href="http://www.mysticcoders.com/wp-content/uploads/2010/06/Rapid-Application-Development-with-Apache-Wicket-Jazoon-2010.pdf"><img src="https://www.mysticcoders.com/wp-includes/images/crystal/document.png" border="0" /></a>&nbsp;-&nbsp; <a href="http://www.mysticcoders.com/wp-content/uploads/2010/06/Rapid-Application-Development-with-Apache-Wicket-Jazoon-2010.pdf">Rapid Application Development with Apache Wicket</a>
 
 Enjoy!
 

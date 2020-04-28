@@ -19,7 +19,7 @@ date_gmt: '2009-06-05 17:27:09 +0000'
 tags: []
 comments: true
 ---
-<img src="http://www.mysticcoders.com/wp-content/uploads/2009/06/img_00261-300x249.jpg" alt="Cracked iPhone 3G" title="Cracked iPhone 3G" width="300" height="249" class="alignnone size-medium wp-image-972" />
+<img src="https://www.mysticcoders.com/wp-content/uploads/2009/06/img_00261-300x249.jpg" alt="Cracked iPhone 3G" title="Cracked iPhone 3G" width="300" height="249" class="alignnone size-medium wp-image-972" />
 
 Early yesterday, just before lunch ... I had one of those technologically sad moments.  My precious iPhone 3G while holding her making a call ... seemed different, especially near the back.  Much to my dismay, what I discovered was a crack that goes from the USB connector up through to the "Designed by Apple" text.  The phone, still worked, so I called AppleCare to find out what the deal was.  After several minutes on the phone, we both figured out that a trip to the Apple Store to visit the support staff was the next best option.
 

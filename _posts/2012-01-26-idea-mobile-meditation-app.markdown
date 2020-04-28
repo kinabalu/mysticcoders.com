@@ -19,7 +19,7 @@ date_gmt: '2012-01-26 18:32:18 +0000'
 tags: []
 comments: true
 ---
-<img src="http://farm7.staticflickr.com/6071/6131624592_a86d75325e.jpg" width="500" />
+<img src="https://farm7.staticflickr.com/6071/6131624592_a86d75325e.jpg" width="500" />
 
 <a href="http://www.mysticcoders.com/idea-lab/"><em>A full list of the ideas currently in the IdeaLab</em></a>
 

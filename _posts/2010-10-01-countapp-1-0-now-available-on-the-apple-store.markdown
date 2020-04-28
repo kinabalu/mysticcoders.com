@@ -19,7 +19,7 @@ date_gmt: '2010-10-01 15:30:37 +0000'
 tags: []
 comments: true
 ---
-<a href="http://itunes.apple.com/us/app/countapp/id394215620?mt=8#" target="_blank"><img src="http://www.mysticcoders.com/wp-content/uploads/2010/09/as_available_appstore_icon_20091006.png" border="0" /></a>
+<a href="http://itunes.apple.com/us/app/countapp/id394215620?mt=8#" target="_blank"><img src="https://www.mysticcoders.com/wp-content/uploads/2010/09/as_available_appstore_icon_20091006.png" border="0" /></a>
 
 It took just over a week for apple to approve it, but we're in.  I decided to learn a little Objective-C in my spare time and built this simple app, it's a counter which you tap to increment.  You can save multiple counters, name them, date them, and it saves your place in between stops and starts, and even power cycles.
 

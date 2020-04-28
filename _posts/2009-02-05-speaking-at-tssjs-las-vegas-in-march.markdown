@@ -25,5 +25,5 @@ Get your butt over to Vegas in March for the conference, it runs the 18th throug
 
 And remember: always bet on <a title="mystic coders - to our success!" href="http://mysticcoders.com/">mystic</a>.
 
-<div style="text-align: justify;"><a title="Architecting Applications using Apache Wicket - Andrew Lombardi" href="http://javasymposium.techtarget.com/html/frameworks.html#ALombardiWicket"><img src="http://www.mysticcoders.com/wp-content/uploads/2009/02/tssjs-imspeaking.gif" alt="TSSJS-imspeaking.gif" width="150" height="150" /></a></div>
+<div style="text-align: justify;"><a title="Architecting Applications using Apache Wicket - Andrew Lombardi" href="http://javasymposium.techtarget.com/html/frameworks.html#ALombardiWicket"><img src="https://www.mysticcoders.com/wp-content/uploads/2009/02/tssjs-imspeaking.gif" alt="TSSJS-imspeaking.gif" width="150" height="150" /></a></div>
 

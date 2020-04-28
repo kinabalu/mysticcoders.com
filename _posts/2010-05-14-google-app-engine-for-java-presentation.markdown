@@ -91,6 +91,6 @@ Your mileage certainly may vary on versions, but as of this writing, slamming th
 
 And in case you're interested, here's the presentation from last night and March's talk at Scandev.
 
-<a href="http://www.mysticcoders.com/wp-content/uploads/2010/05/Google-App-Engine-Java-HOWTO.pdf"><img src="http://www.mysticcoders.com/wp-includes/images/crystal/document.png" border="0" /></a>&nbsp;-&nbsp;<a href="http://www.mysticcoders.com/wp-content/uploads/2010/05/Google-App-Engine-Java-HOWTO.pdf">Google App Engine for Java</a>
+<a href="http://www.mysticcoders.com/wp-content/uploads/2010/05/Google-App-Engine-Java-HOWTO.pdf"><img src="https://www.mysticcoders.com/wp-includes/images/crystal/document.png" border="0" /></a>&nbsp;-&nbsp;<a href="http://www.mysticcoders.com/wp-content/uploads/2010/05/Google-App-Engine-Java-HOWTO.pdf">Google App Engine for Java</a>
 
 Enjoy!

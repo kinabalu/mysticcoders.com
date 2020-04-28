@@ -19,7 +19,7 @@ date_gmt: '2010-12-04 02:35:06 +0000'
 tags: []
 comments: true
 ---
-<img src="http://www.mysticcoders.com/wp-content/uploads/2010/12/IMG_2968.jpg" border="0" />
+<img src="https://www.mysticcoders.com/wp-content/uploads/2010/12/IMG_2968.jpg" border="0" />
 
 That's right folks, we've again taken the love for <a href="http://wicket.apache.org" target="_blank">Apache Wicket</a> on the road to Ft Lauderdale, Florida!  The team that puts on these shows is the same that does the <a href="http://www.nofluffjuststuff.com/" target="_blank">No Fluff Just Stuff</a> tours around the USA.  This show though, and &Uuml;berconf before it are all about longer more in-depth sessions so you leave knowing how to get started, and workshopping with the speakers and deep diving into actually building with that technology.
 

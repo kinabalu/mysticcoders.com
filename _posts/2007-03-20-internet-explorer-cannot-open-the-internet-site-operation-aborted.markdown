@@ -20,7 +20,7 @@ comments: true
 ---
 Just got hit with this error:
 
-<a href="http://www.mysticcoders.com/wp-content/uploads/2007/03/Picture%201-1.png"><img src="http://www.mysticcoders.com/wp-content/uploads/2007/03/Picture%201-1-tm.jpg" border="1" alt="Picture 1-1" hspace="4" vspace="4" width="373" height="100" /></a>
+<a href="http://www.mysticcoders.com/wp-content/uploads/2007/03/Picture%201-1.png"><img src="https://www.mysticcoders.com/wp-content/uploads/2007/03/Picture%201-1-tm.jpg" border="1" alt="Picture 1-1" hspace="4" vspace="4" width="373" height="100" /></a>
 
 And regrettably I spent a lot of time searching through Javascript in <a href="http://www.mootools.net">mootools</a> javascript, and the small 2 lines of javascript <a href="http://www.wicketframework.org">Wicket</a> adds to the page.  Finally, I decided to actually google the error (which I should have done immediately).
 

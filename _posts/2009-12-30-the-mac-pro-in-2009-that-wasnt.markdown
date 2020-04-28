@@ -19,7 +19,7 @@ date_gmt: '2009-12-30 19:31:12 +0000'
 tags: []
 comments: true
 ---
-<img src="http://www.mysticcoders.com/wp-content/uploads/2009/12/3343842511_2a6c552455_b-225x300.jpg" alt="Mac Pro Box" title="Mac Pro Box" width="225" height="300" class="alignnone size-medium wp-image-1256" />
+<img src="https://www.mysticcoders.com/wp-content/uploads/2009/12/3343842511_2a6c552455_b-225x300.jpg" alt="Mac Pro Box" title="Mac Pro Box" width="225" height="300" class="alignnone size-medium wp-image-1256" />
 
 The box came a day early, on the 29th ... and even an hour earlier than originally stated, neat.  The machine was unpacked, hooked up to the existing equipment and booted.  I should have known what the rest of the experience with this machine was going to be like, by that first boot.  It didn't.  It required being shut off and back on again before I would see the glorious Apple logo on screen.
 

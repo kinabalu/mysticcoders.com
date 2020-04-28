@@ -26,7 +26,7 @@ For the IDEA plugin we'll be showing how it was developed, so we can remove the 
 <h2>Setting up the project</h2>
 With IntelliJ IDEA 8.x getting a new plugin project setup couldn't be easier! Launch IDEA and choose File -&gt; New Project... -&gt; Create project from scratch
 
-<img src="http://www.mysticcoders.com/wp-content/uploads/2009/04/picture-2.png" width="480" height="395" alt="Picture 2.png" />
+<img src="https://www.mysticcoders.com/wp-content/uploads/2009/04/picture-2.png" width="480" height="395" alt="Picture 2.png" />
 
 Just as with any project, give it a good name, and for type, select "Plugin Module". Go through the normal project setup details and click Finish when done.
 
@@ -182,13 +182,13 @@ After a quick null check, we use IDEA's supplied CopyPasteManager to set the con
 You can test your app by running it like you would anything else, IDEA provides a target in the Run/Debug configurations to achieve this.
 
 
-<img src="http://www.mysticcoders.com/wp-content/uploads/2009/04/picture-3.png" width="218" height="417" alt="Picture 3.png" />
+<img src="https://www.mysticcoders.com/wp-content/uploads/2009/04/picture-3.png" width="218" height="417" alt="Picture 3.png" />
 
 IDEA will launch a completely new version of the IDE in which to test your plugin, I would heartily suggest that you create a simple project that can exercise whatever functionality is intended to be used with your plugin.
 
 <h2>Deployment</h2>
 
-<img src="http://www.mysticcoders.com/wp-content/uploads/2009/04/picture-4.png" width="444" height="232" alt="Picture 4.png" />
+<img src="https://www.mysticcoders.com/wp-content/uploads/2009/04/picture-4.png" width="444" height="232" alt="Picture 4.png" />
 
 If you're happy with your debugging efforts, and the functionality works for your needs, under the Build menu select "Prepare Plugin Module ..." and it will build a plugin jar that you can drop into IDEA's plugin directory
 

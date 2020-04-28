@@ -19,7 +19,7 @@ date_gmt: '2011-07-12 21:34:05 +0000'
 tags: []
 comments: true
 ---
-<div style="float: right;"><img src="http://www.mysticcoders.com/wp-content/uploads/2011/07/google-plus.png" border="0"></div>
+<div style="float: right;"><img src="https://www.mysticcoders.com/wp-content/uploads/2011/07/google-plus.png" border="0"></div>
 There is a bit of discussion over on the new favorite social network <a href="http://plus.google.com" target="_blank">Google+</a>.  Some enterprising folks are copying Google's short URL for accessing Google which appends a plus sign following the domain like so: <a href="http://mysticcoders.com/+">mysticcoders.com/+</a>.  In this short article we'll show you several methods of achieving this on your Wordpress blog from cleanest, to not.
 
 <h2>Full privileges to web root</h2>

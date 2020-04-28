@@ -19,7 +19,7 @@ date_gmt: '2012-01-27 17:54:36 +0000'
 tags: []
 comments: true
 ---
-<a href="http://www.flickr.com/photos/dacotahsgirl/474468038/" target="_blank" title="Coloring time by dacotahsgirl, on Flickr"><img src="http://farm1.staticflickr.com/178/474468038_131b56a314.jpg" width="500" height="375" alt="Coloring time"></a>
+<a href="https://www.flickr.com/photos/dacotahsgirl/474468038/" target="_blank" title="Coloring time by dacotahsgirl, on Flickr"><img src="https://farm1.staticflickr.com/178/474468038_131b56a314.jpg" width="500" height="375" alt="Coloring time"></a>
 
 <a href="http://www.mysticcoders.com/idea-lab/"><em>A full list of the ideas currently in the IdeaLab</em></a>
 

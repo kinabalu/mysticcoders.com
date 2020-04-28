@@ -19,7 +19,7 @@ date_gmt: '2011-04-05 03:45:52 +0000'
 tags: []
 comments: true
 ---
-<img src="http://www.mysticcoders.com/wp-content/uploads/2011/04/avloningsafton_rosta_ja.jpg" border="0" />
+<img src="https://www.mysticcoders.com/wp-content/uploads/2011/04/avloningsafton_rosta_ja.jpg" border="0" />
 
 Every time I've visited G&ouml;teborg, Sweden ... I've enjoyed it immensely.  The people here are a lot of fun, and Swedish is great to listen to because it sounds like they're always singing to each other (apparently Norwegian is even more so!).  I used this picture above in one of my slides to discuss the drinking habits of folks just learning Objective-C :)
 

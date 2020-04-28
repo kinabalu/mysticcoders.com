@@ -106,11 +106,11 @@ toField.setRequired(true);
 form.add(autocompleteField);
 </pre>
 We now have a textfield that allows us to search through a list of items but submit a different value associated with each of those items.
-<img src="http://www.mysticcoders.com/wp-content/uploads/2010/01/autocomplete.png" alt="autocomplete" width="150" height="176" class="alignnone size-full wp-image-161" />
+<img src="https://www.mysticcoders.com/wp-content/uploads/2010/01/autocomplete.png" alt="autocomplete" width="150" height="176" class="alignnone size-full wp-image-161" />
 
 <strong>Advanced tip:</strong>
 Once we have found an item in the list, it is set into the TextField. If we want to clear the selection, by default the link is a textual [x]. We can override this to be whatever we want, different text, or even an Image.
-<img src="http://www.mysticcoders.com/wp-content/uploads/2010/01/autocomplete_search.png" alt="autocomplete_search" width="113" height="36" class="alignnone size-full wp-image-162" />
+<img src="https://www.mysticcoders.com/wp-content/uploads/2010/01/autocomplete_search.png" alt="autocomplete_search" width="113" height="36" class="alignnone size-full wp-image-162" />
 
 To use an icon like in the example above, add something like this to the builder:
 

@@ -34,26 +34,26 @@ I spent some time yesterday working with the new <a href="http://caldav.calconne
 Google Apps users will need to ensure that the administrator for their domain logs into the management website, clicks Service Settings and Mobile in the menu. On that page click the checkbox for "Enable Google Sync" and hit "Save Changes".
 
 <div style="text-align: left;">
-  <img src="http://www.mysticcoders.com/wp-content/uploads/2009/03/picture-3.png" width="480" height="188" alt="Picture 3.png" />
+  <img src="https://www.mysticcoders.com/wp-content/uploads/2009/03/picture-3.png" width="480" height="188" alt="Picture 3.png" />
 </div>
 
 <h1>Step 2 - Setup iCal</h1>In setting up iCal, we can do this the easy way, or the hard way. As long as their is no difference in the effectiveness of the end result, I choose easy. To that end, we have <a href="http://code.google.com/p/calaboration/" title="Calaboration" target="_blank">Calaboration</a>, a Google Sync setup tool specifically for setting up the CalDAV links in iCal.
 
 1. <a href="http://code.google.com/p/calaboration/downloads/list" title="Download Calaboration" target="_blank">Download Calaboration</a> 2. Copy the .app file to the Applications/ folder on your Mac
-<img src="http://www.mysticcoders.com/wp-content/uploads/2009/03/picture-11.png" width="152" height="137" alt="Picture 1.png" />
+<img src="https://www.mysticcoders.com/wp-content/uploads/2009/03/picture-11.png" width="152" height="137" alt="Picture 1.png" />
 
 3. Run the Calaboration.app
-<img src="http://www.mysticcoders.com/wp-content/uploads/2009/03/picture-4.png" width="466" height="183" alt="Picture 4.png" />
+<img src="https://www.mysticcoders.com/wp-content/uploads/2009/03/picture-4.png" width="466" height="183" alt="Picture 4.png" />
 
 4. Sign in with your Gmail or Google Apps login. Full email address with the password.
-<img src="http://www.mysticcoders.com/wp-content/uploads/2009/03/picture-7.png" width="480" height="223" alt="Picture 7.png" />
+<img src="https://www.mysticcoders.com/wp-content/uploads/2009/03/picture-7.png" width="480" height="223" alt="Picture 7.png" />
 5. If iCal is already running, the application will prompt you to quit iCal and return to the application for setting up your calendars.
-<img src="http://www.mysticcoders.com/wp-content/uploads/2009/03/picture-5.png" width="460" height="480" alt="Picture 5.png" />
-6. Select from the listed calendars what you would like to sync7. Click Add to iCal<img src="http://www.mysticcoders.com/wp-content/uploads/2009/03/picture-6.png" width="480" height="224" alt="Picture 6.png" />
+<img src="https://www.mysticcoders.com/wp-content/uploads/2009/03/picture-5.png" width="460" height="480" alt="Picture 5.png" />
+6. Select from the listed calendars what you would like to sync7. Click Add to iCal<img src="https://www.mysticcoders.com/wp-content/uploads/2009/03/picture-6.png" width="480" height="224" alt="Picture 6.png" />
 <em>NOTE: If you see your calendars greyed out, they've already been added, if they are greyed out with a lock to the right, they are read-only. If you want to add them to iCal, visit the applications preferences and select the "Enable read-only calendars" option. Make sure to read the message that goes along with this option, as it could affect your use of iCal.</em>
 
-8. Okay, all done with that? Awesome. You're done with the iCal setup.<img src="http://www.mysticcoders.com/wp-content/uploads/2009/03/picture-8.png" width="480" height="223" alt="Picture 8.png" />
-<img src="http://www.mysticcoders.com/wp-content/uploads/2009/03/picture-9.png" width="179" height="179" alt="Picture 9.png" />
+8. Okay, all done with that? Awesome. You're done with the iCal setup.<img src="https://www.mysticcoders.com/wp-content/uploads/2009/03/picture-8.png" width="480" height="223" alt="Picture 8.png" />
+<img src="https://www.mysticcoders.com/wp-content/uploads/2009/03/picture-9.png" width="179" height="179" alt="Picture 9.png" />
 
 9. Open iCal and ensure that each of the calendars selected from Calaboration show up. You'll notice that instead of the sane method, of having all calendars show under the same CalDAV server, the current implementation has one for each.
 
@@ -80,7 +80,7 @@ If you are using Gmail, you are done. If you are using Google Apps, and you have
 
 
 
-<img src="http://www.mysticcoders.com/wp-content/uploads/2009/03/img-0005.png" width="192" height="288" alt="IMG_0005.PNG" /> <img src="http://www.mysticcoders.com/wp-content/uploads/2009/03/img-0006.png" width="192" height="288" alt="IMG_0006.PNG" />
+<img src="https://www.mysticcoders.com/wp-content/uploads/2009/03/img-0005.png" width="192" height="288" alt="IMG_0005.PNG" /> <img src="https://www.mysticcoders.com/wp-content/uploads/2009/03/img-0006.png" width="192" height="288" alt="IMG_0006.PNG" />
 
 
 3. Tap the rounded button below the icons to configure sync for your domain
@@ -90,7 +90,7 @@ If you are using Gmail, you are done. If you are using Google Apps, and you have
 
 
 
-<img src="http://www.mysticcoders.com/wp-content/uploads/2009/03/img-0002.png" width="192" height="288" alt="IMG_0002.PNG" />&nbsp;&nbsp;<img src="http://www.mysticcoders.com/wp-content/uploads/2009/03/img-0003.png" width="192" height="288" alt="IMG_0003.PNG" />&nbsp;&nbsp;<img src="http://www.mysticcoders.com/wp-content/uploads/2009/03/img-0004.png" width="192" height="288" alt="IMG_0004.PNG" />
+<img src="https://www.mysticcoders.com/wp-content/uploads/2009/03/img-0002.png" width="192" height="288" alt="IMG_0002.PNG" />&nbsp;&nbsp;<img src="https://www.mysticcoders.com/wp-content/uploads/2009/03/img-0003.png" width="192" height="288" alt="IMG_0003.PNG" />&nbsp;&nbsp;<img src="https://www.mysticcoders.com/wp-content/uploads/2009/03/img-0004.png" width="192" height="288" alt="IMG_0004.PNG" />
 
 
 5. You will see an interface like the one in the first picture, select "iPhone".

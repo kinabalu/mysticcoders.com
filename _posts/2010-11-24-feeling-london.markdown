@@ -13,7 +13,7 @@ author_login: kinabalu
 author_email: andrew@mysticcoders.com
 author_url: http://www.mysticcoders.com
 excerpt: |
-  <img src="http://www.mysticcoders.com/wp-content/uploads/2010/11/148334_10150126786064741_836944740_7787437_7807477_n.jpg" border="0" />
+  <img src="https://www.mysticcoders.com/wp-content/uploads/2010/11/148334_10150126786064741_836944740_7787437_7807477_n.jpg" border="0" />
 
   Visiting a city you've never been to before, is initially disorienting.  The logistics of a city are often different from your own, and the maps they provide are usually at a level of granularity just above guessing based on profit making landmarks.
 wordpress_id: 1484
@@ -23,7 +23,7 @@ date_gmt: '2010-11-25 00:03:54 +0000'
 tags: []
 comments: true
 ---
-<img src="http://www.mysticcoders.com/wp-content/uploads/2010/11/148334_10150126786064741_836944740_7787437_7807477_n.jpg" border="0" />
+<img src="https://www.mysticcoders.com/wp-content/uploads/2010/11/148334_10150126786064741_836944740_7787437_7807477_n.jpg" border="0" />
 
 Visiting a city you've never been to before, is initially disorienting.  The logistics of a city are often different from your own, and the maps they provide are usually at a level of granularity just above guessing based on profit making landmarks.
 <a id="more"></a><a id="more-1484"></a>

@@ -190,7 +190,7 @@ We've also gone through the trouble of adding an implementation of <code>Html5Au
 
 When we put our example into place, we get a video with controls like so:
 
-<a href="http://www.mysticcoders.com/wp-content/uploads/2010/02/Screen-shot-2010-01-31-at-10.59.53-PM.png"><img src="http://www.mysticcoders.com/wp-content/uploads/2010/02/Screen-shot-2010-01-31-at-10.59.53-PM.png" alt="" title="Screen shot 2010-01-31 at 10.59.53 PM" width="496" height="425" class="alignnone size-full wp-image-198" /></a>
+<a href="http://www.mysticcoders.com/wp-content/uploads/2010/02/Screen-shot-2010-01-31-at-10.59.53-PM.png"><img src="https://www.mysticcoders.com/wp-content/uploads/2010/02/Screen-shot-2010-01-31-at-10.59.53-PM.png" alt="" title="Screen shot 2010-01-31 at 10.59.53 PM" width="496" height="425" class="alignnone size-full wp-image-198" /></a>
 
 So what's next?  If you download the project available and linked below, it also contains an example of using the <code>audio</code> component.  The <code>Html5UtilsBehavior</code> gives us the ability to CSS style the new HTML5 tags even with Internet Explorer, so our code can be more semantic instead of littering it with div's for lack of an alternative.  There are a ton more interactions and behaviors that can be added to support video and audio, support for canvas, postMessage,  storage, Web Database. Web Workers, geolocation, Content Editable, etc.  I have no reason to think any of these would be impossible to integrate into a sensible component with Wicket.
 

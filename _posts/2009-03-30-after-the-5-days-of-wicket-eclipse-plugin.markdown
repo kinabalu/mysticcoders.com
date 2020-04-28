@@ -46,17 +46,17 @@ If you don't actually care to know how the plugin was written, but want to start
 <h2>Setting up the project</h2>
 Ok, for the two of you who stayed to learn, here's how the Mystic Paste Eclipse plugin was created.  Firstly, launch Eclipse and choose <strong>File->New->Project</strong> and choose "<strong>Plug-in Project</strong>".
 
-<img src="http://www.mysticcoders.com/wp-content/uploads/2009/03/eclipse1.png" alt="Eclipse Plug-in Project" title="Eclipse Plug-in Project" width="530" height="544" class="aligncenter size-full wp-image-577" />
+<img src="https://www.mysticcoders.com/wp-content/uploads/2009/03/eclipse1.png" alt="Eclipse Plug-in Project" title="Eclipse Plug-in Project" width="530" height="544" class="aligncenter size-full wp-image-577" />
 
 This will guide you through a series of dialogs, I'll only go over the ones which are meaningful.  We named our plugin project MysticPasteEclipseProject and we gave it the plugin ID of com.mysticcoders.mysticpaste.  The ID of the plugin is important to Eclipse because when your plugin is loaded, it's the ID which uniquely identifies it amongst the thousands of other plugins which comprise the Eclipse platform.
 
 The plug-in project wizard also lets you pick a template to start a new project from.  Our plugin is going to be one that extends the "Popup Menu" feature of Eclipse, this is any feature which shows a context menu.  The project template we choose is not <em>exactly</em> what we want, but it will be close enough so for now, choose the project template for "Plug-in with popup menu" and proceed.
 
-<img src="http://www.mysticcoders.com/wp-content/uploads/2009/03/eclipse2.png" alt="Eclipse Popup Menu Template" title="Eclipse Popup Menu Template" width="584" height="760" class="aligncenter size-full wp-image-579" />
+<img src="https://www.mysticcoders.com/wp-content/uploads/2009/03/eclipse2.png" alt="Eclipse Popup Menu Template" title="Eclipse Popup Menu Template" width="584" height="760" class="aligncenter size-full wp-image-579" />
 
 Next the project wizard will ask us some questions about the "Action" for our plugin.  The Action, in Eclipses-speak , is the class which houses the actual code that will be executed when the user clicks on your menu item.
 
-<img src="http://www.mysticcoders.com/wp-content/uploads/2009/03/eclipse3.png" alt="Eclipse Action Setup" title="Eclipse Action Setup" width="584" height="760" class="aligncenter size-full wp-image-582" />
+<img src="https://www.mysticcoders.com/wp-content/uploads/2009/03/eclipse3.png" alt="Eclipse Action Setup" title="Eclipse Action Setup" width="584" height="760" class="aligncenter size-full wp-image-582" />
 
 Click the Finish button and let Eclipse build the skeleton project for you.
 
@@ -148,8 +148,8 @@ The code for Mystic Paste is really quite simple.  We take the selected text in 
 
 The only thing special which needs to be done, is to add the dependencies for <a href="http://hc.apache.org/httpcomponents-client/index.html">Commons Http Client</a>.  This is done by using the plugin.xml editor and adding the dependency jars to your project as follows:
 
-<img src="http://www.mysticcoders.com/wp-content/uploads/2009/03/eclipse4.png" alt="Build Depenencies" title="Build Depenencies" width="713" height="542" class="aligncenter size-full wp-image-593" />
-<img src="http://www.mysticcoders.com/wp-content/uploads/2009/03/eclipse5.png" alt="Build Dependencies" title="Build Dependencies" width="711" height="541" class="aligncenter size-full wp-image-594" />
+<img src="https://www.mysticcoders.com/wp-content/uploads/2009/03/eclipse4.png" alt="Build Depenencies" title="Build Depenencies" width="713" height="542" class="aligncenter size-full wp-image-593" />
+<img src="https://www.mysticcoders.com/wp-content/uploads/2009/03/eclipse5.png" alt="Build Dependencies" title="Build Dependencies" width="711" height="541" class="aligncenter size-full wp-image-594" />
 
 The actual code itself is pretty straight forward especially since the author actually documented the code!
 
@@ -291,7 +291,7 @@ public class MysticPasteAction implements IEditorActionDelegate {
 <h2>Building a Plugin Jar</h2>
 Building the plugin jar is pretty simple.  Just go File->Export->Deployable plug-ins and fragments and follow the wizard
 
-<img src="http://www.mysticcoders.com/wp-content/uploads/2009/03/eclipse6.png" alt="Build Jar" title="Build Jar" width="708" height="630" class="aligncenter size-full wp-image-598" />
+<img src="https://www.mysticcoders.com/wp-content/uploads/2009/03/eclipse6.png" alt="Build Jar" title="Build Jar" width="708" height="630" class="aligncenter size-full wp-image-598" />
 
 <h2>Installing the Jar</h2>
 Locate where on your file system Eclipse is installed.  Under this directory there should be a "dropins" folder, this is where the jar you built (or downloaded) for the plugin should reside.  Restart Eclipse, and voila!.  <strong>Note</strong>: on a Mac, you'll have to right click on Eclipse.app and choose "Show Package Contents", the dropins folder will then be accessible through the Finder window which pops up.

@@ -19,7 +19,7 @@ date_gmt: '2010-06-11 18:51:46 +0000'
 tags: []
 comments: true
 ---
-<a href="http://www.flickr.com/photos/kinabalu/4690785253/" title="Bridie of Galway by kinabalu, on Flickr" target="_blank"><img src="http://farm5.static.flickr.com/4029/4690785253_420f921e10.jpg" width="500" height="333" alt="Bridie of Galway" /></a>
+<a href="http://www.flickr.com/photos/kinabalu/4690785253/" title="Bridie of Galway by kinabalu, on Flickr" target="_blank"><img src="https://farm5.static.flickr.com/4029/4690785253_420f921e10.jpg" width="500" height="333" alt="Bridie of Galway" /></a>
 
 As many of you know, I've been in Ireland since last Saturday June 5th, 2010.  I was invited here to speak at The Irish Software Show.  Both of my talks were on Thursday about <a href="http://wicket.apache.org" target="_blank">Apache Wicket</a>, and each of them were well received.  Our beginner talk was a big draw, and I feel it was the best presentation I've given.  Our second talk was equally fun, with less in attendance given it was a more advanced talk, and it was competing against the ubiquitous named presentation about <a href="http://en.wikipedia.org/wiki/HTML5" target="_blank">HTML5</a>.  The conference was well organized by Barry and his team, and I really enjoyed the day sessions, the evangelist nights, and the speaker's dinner last night.
 

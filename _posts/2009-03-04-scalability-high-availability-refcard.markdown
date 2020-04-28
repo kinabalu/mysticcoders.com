@@ -23,7 +23,7 @@ If you've ever wondered what the architects who designed the system powering tha
 
 
 
-<a href="http://refcardz.dzone.com/refcardz/scalability" title="Scalability &amp; High Availability Refcard" target="_blank"><img src="http://www.mysticcoders.com/wp-content/uploads/2009/03/scalability-spotlight-180x135.jpg" width="180" height="135" alt="scalability_spotlight_180x135.jpg" /></a>
+<a href="http://refcardz.dzone.com/refcardz/scalability" title="Scalability &amp; High Availability Refcard" target="_blank"><img src="https://www.mysticcoders.com/wp-content/uploads/2009/03/scalability-spotlight-180x135.jpg" width="180" height="135" alt="scalability_spotlight_180x135.jpg" /></a>
 
 
 What are you waiting for? Download it!

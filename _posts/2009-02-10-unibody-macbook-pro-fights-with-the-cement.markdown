@@ -25,5 +25,5 @@ I was on the phone, with one of our kick ass java wizards talking about one of o
 
 I rushed her to the <a title="Apple Store Retail" href="http://www.apple.com/retail">Apple Store</a> with my <a title="Apple Store Procare" href="http://www.apple.com/retail/procare/">ProCare</a> card in tow, and they examined. Patiently waiting, wondering, hope filled ... yes we can ... fix it. And due to my <a title="Apple Store Procare" href="http://www.apple.com/retail/procare/">ProCare</a> member status, it would only take a few days, and $350 + tax. Not bad for a trip to Apple Store emergency. The machine is going in for plastic surgery on Thursday night, and I'm told, I can pick it up on Monday.
 
-<img src="http://www.mysticcoders.com/wp-content/uploads/2009/02/img-0012.jpg" alt="IMG_0012.JPG" width="480" height="462" /> <img src="http://www.mysticcoders.com/wp-content/uploads/2009/02/img-0013.jpg" alt="IMG_0013.JPG" width="480" height="402" />
+<img src="https://www.mysticcoders.com/wp-content/uploads/2009/02/img-0012.jpg" alt="IMG_0012.JPG" width="480" height="462" /> <img src="https://www.mysticcoders.com/wp-content/uploads/2009/02/img-0013.jpg" alt="IMG_0013.JPG" width="480" height="402" />
 

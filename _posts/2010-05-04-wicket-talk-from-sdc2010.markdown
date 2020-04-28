@@ -23,7 +23,7 @@ In mid march I attended <a href="http://scandevconf.se" target="_blank">SDC2010<
 
 I presented on beginning <a href="http://wicket.apache.org" target="_blank">Apache Wicket</a> development, and here's the presentation:
 
-<a href="http://www.mysticcoders.com/wp-content/uploads/2010/05/Rapid-Application-Development-with-Apache-Wicket.pdf"><img src="http://www.mysticcoders.com/wp-includes/images/crystal/document.png" border="0" /></a>&nbsp;-&nbsp; <a href="<a href="http://www.mysticcoders.com/wp-content/uploads/2010/05/Rapid-Application-Development-with-Apache-Wicket.pdf">Rapid Application Development with Apache Wicket</a>
+<a href="http://www.mysticcoders.com/wp-content/uploads/2010/05/Rapid-Application-Development-with-Apache-Wicket.pdf"><img src="https://www.mysticcoders.com/wp-includes/images/crystal/document.png" border="0" /></a>&nbsp;-&nbsp; <a href="<a href="http://www.mysticcoders.com/wp-content/uploads/2010/05/Rapid-Application-Development-with-Apache-Wicket.pdf">Rapid Application Development with Apache Wicket</a>
 
 Enjoy!
 

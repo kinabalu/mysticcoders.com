@@ -37,7 +37,7 @@ A couple of required items before we begin:
 
 If you don't have Growl already installed on your Mac, <a href="http://growl.info" target="_blank">Get it!</a> Open System Preferences and select Growl from under the "Other" panel. After Growl's preference pane comes up, select the Network tab.
 
-<img src="http://www.mysticcoders.com/wp-content/uploads/2009/04/picture-1.png" width="480" height="403" alt="Growl Network Tab" />
+<img src="https://www.mysticcoders.com/wp-content/uploads/2009/04/picture-1.png" width="480" height="403" alt="Growl Network Tab" />
 
 What you'll need checked here, is "Listen for incoming notifications" and "Allow remote application registration" along with entering in your super-secret password.
 

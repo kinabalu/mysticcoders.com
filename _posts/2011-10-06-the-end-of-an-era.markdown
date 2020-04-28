@@ -19,7 +19,7 @@ date_gmt: '2011-10-07 03:07:22 +0000'
 tags: []
 comments: true
 ---
-<img src="http://www.mysticcoders.com/wp-content/uploads/2011/10/apple-jobs.png" border="0" />
+<img src="https://www.mysticcoders.com/wp-content/uploads/2011/10/apple-jobs.png" border="0" />
 
 The first computer I spent any time on, was an Apple ][.  
 

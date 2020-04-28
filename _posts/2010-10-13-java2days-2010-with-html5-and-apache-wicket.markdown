@@ -19,7 +19,7 @@ date_gmt: '2010-10-13 22:30:35 +0000'
 tags: []
 comments: true
 ---
-<img src="http://www.mysticcoders.com/wp-content/uploads/2010/10/IMG_9014-e1287008742787.jpg" border="0" />
+<img src="https://www.mysticcoders.com/wp-content/uploads/2010/10/IMG_9014-e1287008742787.jpg" border="0" />
 
 Last year I had the awesome privilege of attending and speaking at a conference in <a href="http://en.wikipedia.org/wiki/Sofia" target="_blank">Sofia, Bulgaria</a> for <a href="http://www.java2days.com" target="_blank">Java2Days</a>.  The experience was unmatched to any previous conference, the organizers were amazing and gracious hosts, put on a great event and made sure that the speakers all felt welcome in their hometown.
 
