@@ -1,19 +1,20 @@
 - image: brad-neathery-nPy0X4xew60-unsplash.jpg
   desc_location: left
   desc:
-    <h2>Your next project can be easy.</h2>
+    <h2>Launch a project and sleep in?</h2>
     <h2>If you hire the right team.</h2>
-    <h3>&nbsp;
-    <button onClick="location.href='#contactus'">Reach Out Today!</button>
-- image: slide-3.jpg
-  desc_location: right
-  desc:
-    <h2>New book Beginning Spring 5!</h2>
-    <h3>Our second book, and we think you'll love it!</h3>
-    <button onClick="location.href='https://beginningspring5.com'">Buy It Today</button>
+    <h3>&nbsp;</h3>
+    <button onClick="window.open('https://us1.list-manage.com/survey?u=b7e54324b72126b7ef51b4772&id=d8ce84b999')">Take Our Questionnaire</button>
 - image: slide-2.jpg
   desc_location: left
   desc:
     <h2>Available For Training &amp; Conferences</h2>
     <p>Our team gives back at conferences worldwide and trains in the latest technology</p>
     <button onClick="location.href='#contactus'">Reach out</button>
+- image: slide-3.jpg
+  desc_location: right
+  desc:
+    <h2>New book Beginning Spring 5!</h2>
+    <h3>Our second book, and we think you'll love it!</h3>
+    <button onClick="location.href='https://beginningspring5.com'">Buy It Today</button>
+  
