@@ -4,7 +4,7 @@ status: publish
 published: true
 title: 5 Days of Wicket!
 author:
-  display_name: kinabalu
+  display_name: Andrew Lombardi
   twitter: kinabalu
   login: kinabalu
   email: andrew@mysticcoders.com
@@ -21,9 +21,7 @@ comments: true
 ---
 At Mystic, we love our technology, and we love to evangelize the best of the best. We've been brewing a cauldron of new ideas, and the latest, is a series of articles surrounding building actual applications with the technology we love, and sharing how it was all done with you.
 
-
 Our first feature: 5 days of Wicket!
-
 
 <ul>
 <li><a href="/blog/5-days-of-wicket-day-1" title="Day 1 - Setting up the Project" target="_top">Day 1 - Setting up the Project</a></li>

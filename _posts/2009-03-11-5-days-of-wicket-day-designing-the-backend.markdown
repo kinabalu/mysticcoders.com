@@ -2,24 +2,21 @@
 layout: post
 status: publish
 published: true
-title: '5 Days of Wicket - Designing the backend '
+title: 5 Days of Wicket - Designing the backend
 author:
   display_name: Guillermo Castro
-  login: javageek
+  login: gcastro
   email: gcastro@mysticcoders.com
-  url: http://javageek.org
-author_login: javageek
-author_email: gcastro@mysticcoders.com
-author_url: http://javageek.org
-wordpress_id: 182
-wordpress_url: http://www.mysticcoders.com/blog/?p=182
+  url: https://mysticcoders.com
+  linkedin: /in/javageek/
 date: '2009-03-11 09:00:05 +0000'
 date_gmt: '2009-03-11 16:00:05 +0000'
 tags: []
 comments: true
 ---
 As mentioned in <a href="/blog/5-days-of-wicket-writing-the-tests">day 2</a> of our series, we have a main service interface that came from an initial discussion of what we think a pastebin should do.&Acirc;&nbsp;What can be easier than creating an entity model for a pastebin application, right? It's just a big text area that holds a piece of text (content) that someone wants to share with the rest of the world, or at least with someone else who might be interested in looking at it. However, there are some specific things that we wanted to accomplish in our application that came from a series of ideas by the different team members. Of course, although not really a requirement, we wanted to build this application using <a href="http://wicket.apache.org/" target="_blank">Apache Wicket</a>.
-<a id="more"></a><a id="more-182"></a>
+
+<!--more-->
 
 <h1>Requirements</h1>
 Here is a list of the ideas (or requirements) we wanted for our pastebin, in no particular order:

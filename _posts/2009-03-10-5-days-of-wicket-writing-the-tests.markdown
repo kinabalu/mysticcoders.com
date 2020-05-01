@@ -4,14 +4,11 @@ status: publish
 published: true
 title: 5 Days of Wicket - Writing the tests
 author:
-  display_name: jedstrom
+  name: Johan Edström
   login: jedstrom
   email: jedstrom@mysticcoders.com
-  url: ''
-author_login: jedstrom
-author_email: jedstrom@mysticcoders.com
-wordpress_id: 317
-wordpress_url: http://www.mysticcoders.com/?p=317
+  linkedin: /in/seijoed/
+  url: 'https://mysticcoders.com'
 date: '2009-03-10 09:00:33 +0000'
 date_gmt: '2009-03-10 16:00:33 +0000'
 tags: []
@@ -20,14 +17,15 @@ comments: true
 In the course of building an application, whether it due to shortened timelines, lack of process, or laziness, tests become an afterthought.  Tests often are added when problems are found, or to root out bugs that were not found during early phases.
 
 This article, day 2 of our project, will show how to write a solid baseline for your application with tests as the strong foundation.  Our first meetings laid down the scope and direction we wanted achieved for this short project.  We had a clear sense of the problem we wanted to solve, as well as the basic components we were going to implement.
-<a id="more"></a><a id="more-317"></a>
+<!--more-->
 
 In testing code there are several cycles commonly used in the enterprise community.  We will start our testing tutorial by talking about <a href="http://en.wikipedia.org/wiki/Mock_object" target="_blank">mocks</a>.
 
-<strong>Mocks</strong>
+## Mocks
 The Wikipedia page on Mock object describes them simply:
 
-<blockquote>In object-oriented programming, mock objects are simulated objects that mimic the behavior of real objects in controlled ways</blockquote>
+> In object-oriented programming, mock objects are simulated objects that mimic the behavior of real objects in controlled ways
+
 In Java, utilizing Mock objects generally requires the usage of interfaces.  The interfaces are hopefully something that evolved from initial design discussions, and become the basis for the expected functions and behavior.
 
 The tool we use to build the Mocks is <a href="http://www.easymock.org/" target="_blank">EasyMock</a> and <a href="http://www.junit.org/" target="_blank">JUnit</a> for unit tests.  In your search for the ultimate testing tool, I'd strongly encourage you to try out other tools such as <a href="http://testng.org/" target="_blank">TestNG</a> and <a href="http://jmock.org" target="_blank">JMock</a>.
@@ -64,17 +62,17 @@ EasyMock is a handy tool for this, so we simply add the necessary bits and piece
 
 ``` xml
 <dependency>
- <groupId>org.easymock</groupId>
- <artifactId>easymock</artifactId>
- <version>2.4</version>
+    <groupId>org.easymock</groupId>
+    <artifactId>easymock</artifactId>
+    <version>2.4</version>
 </dependency>
 ```
 
 ``` xml
 <dependency>
- <groupId>org.easymock</groupId>
- <artifactId>easymockclassextension</artifactId>
- <version>2.4</version>
+    <groupId>org.easymock</groupId>
+    <artifactId>easymockclassextension</artifactId>
+    <version>2.4</version>
 </dependency>
 ```
 
@@ -110,7 +108,7 @@ What we are doing here is essentially describing the calls we expect, we replay 
 
 While this may seem quite obvious, this will help us in comparing what an implementation will have to return, that the code has coverage and the mocks of these classes actually behave as expected. Once we have full mock coverage we can start implementing the code, and keep looping back to our tests to verify that things work as expected.
 
-<strong>Integration and Implementation Tests</strong>
+## Integration and Implementation Tests
 Once we have a working implementation, covered by our mock tests for expected behavior, the next step to consider are <a href="http://en.wikipedia.org/wiki/Integration_testing" target="_blank">integration tests</a>.  Integration tests involve a more complete test involving third party components such as a database or complex services.  The focus here is to track down potential errors in our project e.g.  configuration files, Dao mapping and entity problems, etc.  The tool we consider well thought out and best of breed would help us setup a complete testbed, to include an in-memory database.
 
 <a href="http://unitils.org" target="_blank">Unitils</a> brings together several common tools used separately into a cohesive integration testing framework.  It provides the ability to run a Spring context and an in-memory database which we can use to perform full life-cycle tests on all components.  These tools let us write tests that will verify our applications behaviour in a real life situation.  The value here can be seen later in the project, as it will continue to be referenced throughout the lifecycle of our project.  We can use them to hunt down possible bugs, add features without worry of breaking other pieces of our application, or simply maintaining and refactoring the codebase.  Yet another benefit is hidden, for it helps new developers on the project understand how everything ties together without the need for a separate, distant, and possibly rarely updated document.
@@ -161,17 +159,17 @@ This file will now allow us to move on to an implementation we start with an Abs
 ``` java
 public class AbstractIntegrationTest extends UnitilsJUnit4 {
 
-&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; @SpringApplicationContext({"applicationContext.xml", "applicationContext-test.xml"})
-&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; private ApplicationContext applicationContext;
+    @SpringApplicationContext({"applicationContext.xml", "applicationContext-test.xml"})
+    private ApplicationContext applicationContext;
 
-&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; /**
-&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; * Method testDoNothing ...
-&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; */
-&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; //This is to keep maven surefire quiet.
-&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; @Test
-&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; public void testDoNothing() {
-&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; //Nothing
-&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp;&Acirc;&nbsp; }
+    /**
+    * Method testDoNothing ...
+    */
+    //This is to keep maven surefire quiet.
+    @Test
+    public void testDoNothing() {
+        //Nothing
+    }
 
 }
 ```
@@ -222,4 +220,4 @@ public class PasteServiceIntegrationTest extends AbstractIntegrationTest {
 }
 ```
 
-Voila! We have a complete life cycle test.&Acirc;&nbsp; These tests of course run somewhat slower than mocks. As tools and aids to rapid development they are quite valuable and will help find elusive bugs and problematic issues.
+Voila! We have a complete life cycle test. These tests of course run somewhat slower than mocks. As tools and aids to rapid development they are quite valuable and will help find elusive bugs and problematic issues.

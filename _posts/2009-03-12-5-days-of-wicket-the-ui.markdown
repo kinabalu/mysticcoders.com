@@ -5,14 +5,11 @@ published: true
 title: 5 Days of Wicket - The UI
 author:
   display_name: Steve Forsyth
+  name: Steve Forsyth
   login: sforsyth
   email: sforsyth@mysticcoders.com
-  url: http://mysticcoders.com
-author_login: sforsyth
-author_email: sforsyth@mysticcoders.com
-author_url: http://mysticcoders.com
-wordpress_id: 359
-wordpress_url: http://www.mysticcoders.com/?p=359
+  linkedin: /in/steveforsyth/
+  url: https://mysticcoders.com
 date: '2009-03-12 09:00:15 +0000'
 date_gmt: '2009-03-12 16:00:15 +0000'
 tags: []
@@ -20,9 +17,10 @@ comments: true
 ---
 So... you should now have a fairly good understanding of how to put <a target="_blank" href="http://wicket.apache.org/">Wicket</a> together with <a target="_blank" href="http://www.springsource.org/">Spring</a> and <a target="_blank" href="http://www.hibernate.org/">Hibernate</a>, creating your DAOs and services and putting that code through the test gauntlet. We can see that our foundation is rock solid... but we're missing the eye-candy... so let's hop over to the UI and show you where Wicket really shines.
 &nbsp;
-<a id="more"></a><a id="more-359"></a>
 
-<h1>Base Class</h1>
+<!--more-->
+
+# Base Class
 Most if not all web applications use some sort of base template to remove duplication such as the header and footer. Wicket has a built-in way of handling this instead of having to use a separate library such as <a href="http://www.opensymphony.com/sitemesh/" target="_blank">SiteMesh</a>. Wicket uses inheritance to facilitate templates. They provide their own base class called <a target="_blank" href="http://wicket.apache.org/docs/wicket-1.3.2/wicket/apidocs/org/apache/wicket/markup/html/WebPage.html">WebPage</a> that our application specific base class will extend from to get started. The <a target="_blank" href="http://wicket.apache.org/docs/wicket-1.3.2/wicket/apidocs/org/apache/wicket/markup/html/WebPage.html">WebPage</a> class sets us up with a blank web page in seconds. For our application, we have a simple header/footer that we want all of our pages to use and a very simple menu that I threw into the base page that I named <em>BasePage</em>.
 
 ```public class BasePage extends WebPage {...```
