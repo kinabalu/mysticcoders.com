@@ -33,7 +33,7 @@ Here is a list of the ideas (or requirements) we wanted for our pastebin, in no 
 <h1>Models/Entities</h1>
 From the set of requirements we can get a sense of how the entities are going to be created and how they're going to relate to each other, as seen in the following diagram:
 
-<img class="aligncenter size-full wp-image-425" title="Class Diagram" src="http://www.mysticcoders.com/wp-content/uploads/2009/03/class-diagram.png" alt="Class Diagram" width="452" height="194" />
+<img class="aligncenter size-full wp-image-425" title="Class Diagram" src="https://www.mysticcoders.com/wp-content/uploads/2009/03/class-diagram.png" alt="Class Diagram" width="452" height="194" />
 
 This looks like a very simple entity model, but it fits with what we want to accomplish for this particular project. During the brainstorming session many features were discussed, like the ability to edit and/or delete an item that you own (identified by some session token saved in a cookie), the ability to upload images, have an API for external clients that want access to the pastebin, etc. This might be implemented in the future, but were omitted for the first iteration of the project. However, some of the basis for the functionalities is there, like having a client token to identify the different clients accessing the server and be able to show them in the future.
 

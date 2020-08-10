@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "React to CORS with an Express Proxy"
-date:   2020-05-02 12:00:00
+date:   2020-05-01 12:00:00
 author:
   display_name: Andrew Lombardi
   login: kinabalu
@@ -27,14 +27,17 @@ CORS. Until you've had to talk with a third-party API you may have been unaware 
 > 
 > Cross-origin resource sharing is a mechanism that allows restricted resources on a web page to be requested from another domain outside the domain from which the first resource was served. A web page may freely embed cross-origin images, stylesheets, scripts, iframes, and videos.
 
+So if you're looking for access using a library like [Axios](https://github.com/axios/axios) or [Fetch](https://javascript.info/fetch) and using the same host, no problem. If however you're trying to access let's say, a user's geo location using their IP
 
-hey hey
-
-there we go
-
-what what
+hey ho
 
 let's go
+
+## Pre-flight Requests
+Discuss pre-flight requests, the OPTIONS header that gets passed
+
+## Browser-based Options
+If you're testing locally...
 
 ### Firefox
   ![](https://addons.cdn.mozilla.net/static/img/addon-icons/default-64.png)
@@ -48,8 +51,6 @@ let's go
 
 ### Safari
 No plugin necessary. Easiest way is to enable the developer menu from *Preferences -> Advanced* and under the Develop menu select *Disable Cross-Origin Restrictions*. Reload the page.
-
-## 
 
 ## Build a NodeJS proxy server
 Let's build a proxy server which will let us pass the necessary headers

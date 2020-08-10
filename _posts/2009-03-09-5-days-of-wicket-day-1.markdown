@@ -24,7 +24,7 @@ The beauty of <a href="http://wicket.apache.org" target="_blank">Wicket</a><a id
 # Workflow
 The basic workflow involved in creating and maintaining html rendered by Wicket is as follows:
 
-<img class="alignnone size-full wp-image-155" src="http://www.mysticcoders.com/wp-content/uploads/2009/02/wicket-sequence-diagram.png" alt="wicket-sequence-diagram" width="457" height="207" />
+<img class="alignnone size-full wp-image-155" src="https://www.mysticcoders.com/wp-content/uploads/2009/02/wicket-sequence-diagram.png" alt="wicket-sequence-diagram" width="457" height="207" />
 
 1. The Designer creates the html for the website and fleshes it out with mock sections. For instance in the application we intend to create during our <a href="/blog/5-days-of-wicket">Five Days of Wicket</a> will be a <i><a href="http://en.wikipedia.org/wiki/Pastebin" target="_blank">pastebin</a></i> application called "Mystic Paste".  In our application we'll have an Add Code to Mystic Paste page, mock data might include some user created content in the textarea of the page. All css/images, etc... are setup such that if they were to be put on a webserver, everything would work.
 2. The Developer needs to flesh out the dynamic areas of the webpage, that is, he needs to instruct Wicket where it will need to show information from the server. The developer does this by decorating the designer's html page with special Wicket tags and attributes. Because these tags and attributes are just considered part of another namespace separate from xhtml's, editors like Dreamweaver and browsers will simply ignore them
@@ -91,7 +91,7 @@ This looks almost 100% like a normal webpage would look, the only difference is 
 
 Here is how the final page looks if you were to simply load the page into a web browser (or Dreamweaver) from your hard drive:
 
-<img class="alignnone size-full wp-image-156" src="http://www.mysticcoders.com/wp-content/uploads/2009/02/cheesr-wicket.png" alt="cheesr-wicket" width="555" height="319" />
+<img class="alignnone size-full wp-image-156" src="https://www.mysticcoders.com/wp-content/uploads/2009/02/cheesr-wicket.png" alt="cheesr-wicket" width="555" height="319" />
 
 ## Preparing for Setup
 
@@ -176,7 +176,7 @@ You can of course stick with the typical "Java source files along side html" con
 ## Getting Started
 Since we are using Maven as our build tool we can take advantage of the fact that the fine folks at the Wicket project have created a specialized "<a href="http://maven.apache.org/guides/mini/guide-creating-archetypes.html" target="_blank">archetype</a>" which creates a skeleton web application complete with a folder structure which mimics roughly what we have outlined above and Maven pom.xml file used to build a war. The Wicket contributors have even gone one step further and have created a little web page which will, based off a few drop down options, generate the maven command you need to execute in order to create the boiler plate Wicket project. You can find this web page over on the Apache Wicket site under the "<a href="http://wicket.apache.org/quickstart.html" target="_blank">Quick Start</a>" link.
 
-[caption id="attachment_190" align="alignnone" width="642" caption="Copying the above Maven command creates a Skeleton Wicket Project"]<img class="size-full wp-image-190" src="http://www.mysticcoders.com/wp-content/uploads/2009/02/wicket-archetype1.png" alt="wicket-archetype1" width="642" height="281" />[/caption]
+[caption id="attachment_190" align="alignnone" width="642" caption="Copying the above Maven command creates a Skeleton Wicket Project"]<img class="size-full wp-image-190" src="https://www.mysticcoders.com/wp-content/uploads/2009/02/wicket-archetype1.png" alt="wicket-archetype1" width="642" height="281" />[/caption]
 
 To be precise, the command I used was:
 
@@ -222,7 +222,7 @@ Now obviously we'll have to rearrange a few things, for instance I want my base 
 This will start up a Jetty webapp container running on port 8080 (if you have something running there already, use the -Djetty.port=
 `<portNum>` option). Startup a webbrowser and navigate to http://localhost:8080/mysticpaste/ You should see:
 
-<img class="alignnone size-full wp-image-314" title="jetty-quickstart" src="http://www.mysticcoders.com/wp-content/uploads/2009/02/jetty-quickstart.png" alt="jetty-quickstart" width="921" height="492" />
+<img class="alignnone size-full wp-image-314" title="jetty-quickstart" src="https://www.mysticcoders.com/wp-content/uploads/2009/02/jetty-quickstart.png" alt="jetty-quickstart" width="921" height="492" />
 
 ## Your IDE
 Sooner or later you're going to want to crack open your IDE and start hacking away. Maven makes this extremely easy by allowing you to create IDE specific project files based off of the Maven pom.xml file.
