@@ -5,7 +5,7 @@
     <h3>&nbsp;</h3>
     <button onClick="window.open('https://us1.list-manage.com/survey?u=b7e54324b72126b7ef51b4772&id=d8ce84b999')">Take Our Questionnaire</button>
 - image: slide-2a.jpg
-  desc_location: left
+  desc_location: right
   desc: <h2>Sign Up For Our Newsletter</h2>
     <p>Team Mystic's weekly reads is fun and informative</p>
     <button onClick="window.open('https://forms.aweber.com/form/20/2651020.htm')">Sign Up</button>
