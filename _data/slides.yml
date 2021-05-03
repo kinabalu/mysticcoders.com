@@ -8,7 +8,7 @@
   desc_location: left
   desc: <h2>Sign Up For Our Newsletter</h2>
     <p>Team Mystic's weekly reads is fun and informative</p>
-    <button onClick="window.open=('https://forms.aweber.com/form/20/2651020.htm')">Sign Up</button>
+    <button onClick="window.open('https://forms.aweber.com/form/20/2651020.htm')">Sign Up</button>
 - image: slide-2.jpg
   desc_location: left
   desc: <h2>Available For Training &amp; Conferences</h2>
