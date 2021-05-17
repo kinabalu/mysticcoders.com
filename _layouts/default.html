@@ -48,6 +48,12 @@
         gtag('js', new Date());
 
         gtag('config', 'AW-1054116853');
+
+        {% if page.gtag %}
+
+            gtag('event', {{ page.gtag.event_type }}, {'send_to': '{{ page.gtag.send_to }}' });
+
+        {% endif %}
       </script>
 
     </head>

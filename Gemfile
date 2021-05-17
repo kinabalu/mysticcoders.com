@@ -9,6 +9,8 @@ git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 gem "jekyll"
 gem "jekyll-paginate"
 gem "rouge"
+gem "kramdown-parser-gfm"
+gem "webrick"
 
 group :jekyll_plugins do
     gem 'jekyll-livereload'
