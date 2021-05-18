@@ -40,9 +40,9 @@ GEM
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
     liquid (4.0.3)
-    listen (3.5.1)
-      rb-fsevent (~> 0.10, >= 0.10.3)
-      rb-inotify (~> 0.9, >= 0.9.10)
+    listen (3.0.8)
+      rb-fsevent (~> 0.9, >= 0.9.4)
+      rb-inotify (~> 0.9, >= 0.9.7)
     mercenary (0.3.6)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
@@ -68,8 +68,9 @@ DEPENDENCIES
   jekyll-livereload
   jekyll-paginate
   kramdown-parser-gfm
+  listen (~> 3.0.8)
   rouge
   webrick
 
 BUNDLED WITH
-   2.2.17
+   2.2.3

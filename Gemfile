@@ -11,6 +11,7 @@ gem "jekyll-paginate"
 gem "rouge"
 gem "kramdown-parser-gfm"
 gem "webrick"
+gem "listen", "~> 3.0.8"
 
 group :jekyll_plugins do
     gem 'jekyll-livereload'
